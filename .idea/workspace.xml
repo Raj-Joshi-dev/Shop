@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="551171ea-c496-4fc7-97b3-fe16574a369b" name="Default Changelist" comment="" />
+    <list default="true" id="551171ea-c496-4fc7-97b3-fe16574a369b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProductController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/products/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/products/create.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +22,9 @@
         <option value="composer.json" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
@@ -131,14 +139,17 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1jbgz56zmWs1fzgoJrfEWliWjBw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/products" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -175,7 +186,7 @@
       <workItem from="1604196200996" duration="202000" />
       <workItem from="1604196815377" duration="83000" />
       <workItem from="1604201952811" duration="362000" />
-      <workItem from="1604239924784" duration="7083000" />
+      <workItem from="1604239924784" duration="11467000" />
     </task>
     <servers />
   </component>
@@ -187,6 +198,22 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="697" y="384" width="516" height="346" key="#Notifications/0.27.1920.1053@0.27.1920.1053" timestamp="1604078707854" />
+    <state x="755" y="415" width="400" height="284" key="#Scopes" timestamp="1604247347581">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="755" y="415" width="400" height="284" key="#Scopes/0.27.1920.1053@0.27.1920.1053" timestamp="1604247347581" />
+    <state x="721" y="289" width="424" height="519" key="FileChooserDialogImpl" timestamp="1604247186431">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="721" y="289" width="424" height="519" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1604247186431" />
+    <state x="811" y="445" width="255" height="207" key="Github.ShareDialog" timestamp="1604247262315">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="811" y="445" width="255" height="207" key="Github.ShareDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1604247262315" />
+    <state x="634" y="250" width="641" height="614" key="Github.UntrackedFilesDialog" timestamp="1604247292038">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="634" y="250" width="641" height="614" key="Github.UntrackedFilesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1604247292038" />
     <state width="1878" height="277" key="GridCell.Tab.0.bottom" timestamp="1604079604663">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -215,9 +242,9 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="610" y="247" key="run.anything.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1604243330537" />
-    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1604246728268">
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1604263345907">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1604246728268" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1604263345907" />
   </component>
 </project>

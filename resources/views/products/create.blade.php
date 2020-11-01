@@ -26,12 +26,12 @@
 
             Price (€):
             <br>
-            <input type="text" name="price" value="{{ old('name') }}" class="form-control"/>
+            <input type="text" name="price" value="{{ old('price') }}" class="form-control"/>
             <br>
 
             Description:
             <br>
-            <textarea type="description" name="name" class="form-control">{{ old('description') }}</textarea>
+            <textarea type="description" name="description" class="form-control">{{ old('description') }}</textarea>
             <br>
 
             Category:
